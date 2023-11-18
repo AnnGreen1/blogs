@@ -1,0 +1,1 @@
+PHP array_rand()与shuffle()
