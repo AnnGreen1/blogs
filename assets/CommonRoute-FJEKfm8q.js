@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./index-et4HJr9X.js";const s={},n=c("div",{class:"common-style"}," CommonRoute.vue ",-1),a=[n];function _(r,m){return o(),t("div",null,a)}const l=e(s,[["render",_]]);export{l as default};
